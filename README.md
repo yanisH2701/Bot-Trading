@@ -36,7 +36,7 @@ lancez le fichier bit.py
 ## Auteurs
 * **TTLPdev** _alias_ [@TTLPdev](https://github.com/TTLPdev)
 * **Zellox** _alias_ [@Zellox](https://github.com/Zellox)
-* * **Yanis** _alias_ [@yanisH2701](https://github.com/yanisH2701)
+* **Yanis** _alias_ [@yanisH2701](https://github.com/yanisH2701)
 
 _(pour le lien mettez simplement l'URL de votre projet suivi de ``/contirubors``)_
 
